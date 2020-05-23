@@ -1,6 +1,6 @@
 # Node project with Typescript in 5 minutes
 
-Based on excellent [article](https://levelup.gitconnected.com/how-to-set-up-a-typescript-node-js-app-in-5-minutes-93ffee3b1768) by Trey Huffine
+> Based on excellent [article](https://levelup.gitconnected.com/how-to-set-up-a-typescript-node-js-app-in-5-minutes-93ffee3b1768) by Trey Huffine.
 
 Create directory for your new project
 
