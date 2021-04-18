@@ -53,7 +53,7 @@ yarn add -D @types/node nodemon ts-node
 Create source directory
 ```
 mkdir src
-touch index.ts
+touch src/index.ts
 ```
 
 To run the app in development, staging and production lets add scripts to `package.json`
